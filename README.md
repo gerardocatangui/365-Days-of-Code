@@ -1,3 +1,3 @@
-# 365-Days-of-Code
+# Data Science for Space
 
-This is a public repository of all my codes to become an AI Engineer
+Let's Explore how we can use Data Science for Space Exploration and Discovery
